@@ -78,7 +78,8 @@ git clone https://github.com/tonmoychakrabartyjoy/Calculator.git
 
 ## 📬 Contact Me
 
-
+* 📧 Email: [tonmoy.chakrabarty.joy01@gmail.com](mailto:tonmoy.chakrabarty.joy01@gmail.com)
+* 💼 LinkedIn: [**Tonmoy Chakrabarty joy**](https://www.linkedin.com/in/tonmoy-chakrabarty-joy-a183b83b2/)
 * 🐙 GitHub: https://github.com/tonmoychakrabartyjoy
 
 ---
